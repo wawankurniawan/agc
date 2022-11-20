@@ -1,11 +1,4 @@
 <?php
-
-/**
- * 
- * Scraping gambar dari Google
- * https://autoblog.pro
- * 
-**/
  
 namespace AutoblogPro\Libs;
 
